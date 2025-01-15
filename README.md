@@ -165,7 +165,7 @@ p.note { display: none; }
 <h2><span class="yellow">食事の前にパチリ</span></h2>
 <a href="20250114_016.JPG" target="_blank"><img src="20250114_016.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">食事を振る舞っていただいたのは71歳の親戚<br>黄色いジャンバーは22歳の現役大学生</span></h2>
+<h2><span class="yellow">食事を振る舞っていただいたのは奥の女性で71歳、お母様は100歳で健在です<br>黄色いジャンバーは22歳の現役大学生</span></h2>
 <a href="20250114_017.JPG" target="_blank"><img src="20250114_017.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">残った食材と庭のマンゴーはお土産でいただきました</span></h2>
