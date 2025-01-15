@@ -176,7 +176,7 @@ p.note { display: none; }
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AbRkTtGDRFs?si=w3ytSmFNpLk7oYom" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<h2><span class="yellow">夜の10時過ぎ、日本では見るのが難しい「カノープス」がお空に輝きました<br>宇都宮でも南の空が開けているところでは地平線ギリギリに見えるはずですが、この高さで見たのは初めてです</span></h2>
+<h2><span class="yellow">夜の10時過ぎ、日本では見るのが難しい「カノープス」がお空に輝きました<br>宇都宮でも南の空が開けているところでは地平線ギリギリに見えるはずですが、この高さで見たのは初めてです<br>見つけ方は冬の大三角形の下の頂点「シリウス」を下側に伸ばしたところ</span></h2>
 <a href="20250114_018.JPG" target="_blank"><img src="20250114_018.JPG" alt="サンプル画像" width="900" /></a>
 
 
